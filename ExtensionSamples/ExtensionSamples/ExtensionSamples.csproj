@@ -33,6 +33,7 @@
     <CodeSignProvision>Automatic</CodeSignProvision>
     <HttpClientHandler>NSUrlSessionHandler</HttpClientHandler>
     <AOTMode>None</AOTMode>
+    <PackageSigningKey>3rd Party Mac Developer Installer</PackageSigningKey>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <Optimize>true</Optimize>
